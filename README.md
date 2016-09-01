@@ -1,13 +1,16 @@
-# annalovelace3.github.io
+# Portfolio
+HTML and CSS Project for Epicodus
 
-##synopsis
+Created by Anna Lovelace
 
-My portfolio page
+##Description
 
-##Motivation
+My portfolio page containing links to my projects, information regarding my education and employment history and insight into some of my hobbies and interests! 
 
-A landing page to showcase my work and who I am
+#Technologies Used
+HTML and CSS
 
-##Contributions
+##Legal
 
-Anna Lovelace
+Copyright (c) 2016 Anna Lovelace
+This website is licensed under the MIT license. 
