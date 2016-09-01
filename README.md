@@ -7,6 +7,10 @@ Created by Anna Lovelace
 
 My portfolio page containing links to my projects, information regarding my education and employment history and insight into some of my hobbies and interests! 
 
+###Location
+
+Find me at https://annalovelace3.github.io/Portfolio/
+
 #Technologies Used
 HTML and CSS
 
