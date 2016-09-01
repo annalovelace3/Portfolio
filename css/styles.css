@@ -35,7 +35,7 @@ h2{
 .lead{
   text-align: center;
   font-family: fantasy;
-  
+
 }
 
 .img-circle{
@@ -63,6 +63,7 @@ a{
 
 body{
   background-color:black;
+  font-family: sans-serif;
 }
 
 #quote{
@@ -89,4 +90,13 @@ h3{
 .rogueriver{
   height: 400px;
   width: 400px;
+}
+
+.text ul {
+  font-style: italic;
+}
+
+.travel {
+  font-size: 20px;
+  font-style: italic;
 }
